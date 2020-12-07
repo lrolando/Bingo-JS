@@ -20,3 +20,6 @@ para crear los cartones y el arreglo de numeros del sorteo, esta funcion llama a
 para crear cada parte del carton,y a una para crear el array con los numeros aleatorios.
 Y por ultimo hay una funcion que es llamada con el evento onclick por el boton de "Sacar numero" que va colocando
 los numeros del arreglo en la grilla que esta a la derecha y va revisando los cartones buscando ese numero.
+
+
+Link para jugar: https://lrolando.github.io/
