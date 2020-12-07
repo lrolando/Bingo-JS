@@ -15,8 +15,8 @@ creo un arreglo con los numeros que se repiten en los cartones, los desordeno y 
 de un arreglo que contendra luego de estos numeros el resto desordenados tambien. Puede haber empate tambien,
 ya que para muchos cartones muy probablemente todos los numeros se repitan.
 
-El codigo esta hecho con una funcion para crear la ventana de dialogo que llama a una funcion para crear los cartones
-y el arreglo de numeros del sorteo esta a su vez llama a otras funciones, para crear un carton que llama a otras 3
+El codigo esta hecho con una funcion que crea la ventana de dialogo. El evento onclick del boton de esta ventana llama a una funcion
+para crear los cartones y el arreglo de numeros del sorteo esta funcion llama a otras funciones, para crear un carton que llama a otras 3
 para crear cada parte del carton,y a una para crear el array con los numeros aleatorios.
-Y por ultimo hay una funcion que es llamada con el evento "onclick" por el boton de "Sacar numero" que va colocando
+Y por ultimo hay una funcion que es llamada con el evento onclick por el boton de "Sacar numero" que va colocando
 los numeros del arreglo en la grilla que esta a la derecha y va revisando los cartones buscando ese numero.
