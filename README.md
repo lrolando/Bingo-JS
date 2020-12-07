@@ -1,6 +1,8 @@
 # lrolando.github.io
 Juego de Bingo hecho en Javascript y usando bootstrap para la UI
 
+Link para jugar: https://lrolando.github.io/
+
 El programa crea los cartones que se piden por el input 
 para esto calcule que para la primer columna habra 9 numeros posibles[1;9],
 de la columna 2 a la 8, 10 numeros posibles[10;19] y en la ultima 11 numeros posibles[80;90].
@@ -22,4 +24,3 @@ Y por ultimo hay una funcion que es llamada con el evento onclick por el boton d
 los numeros del arreglo en la grilla que esta a la derecha y va revisando los cartones buscando ese numero.
 
 
-Link para jugar: https://lrolando.github.io/
