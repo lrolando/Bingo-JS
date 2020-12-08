@@ -209,7 +209,7 @@ function CrearCarton(){
     }
     return cartonf;
 }
-//Esta funcion devuelven 2 numeros random de cada decena de los cartones
+//Esta funcion devuelve un arreglo con 2 numeros random entre el nummax y nummin
 function NroRandom(nromin,nromax){
     let amp = nromax-nromin+1;//+1 ya que incluye los extremos
     let elementos=[];
