@@ -1,6 +1,6 @@
 
 
-function VentNombres(){
+function VentanaNombres(){
     //Limpia el contenedor de los cartones y de la grilla si es necesario
     let residuosi = document.getElementById("divizq");
     while (residuosi.firstChild) {residuosi.removeChild(residuosi.firstChild);}
