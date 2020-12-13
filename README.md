@@ -3,7 +3,7 @@ Juego de Bingo hecho en Javascript y usando bootstrap para la UI
 
 Link para jugar: https://lrolando.github.io/
 
-El programa crea los cartones que se piden por el input 
+El programa crea los cartones que se van pidiendo, 
 para esto calcule que para la primer columna habra 9 numeros posibles[1;9],
 de la columna 2 a la 8, 10 numeros posibles[10;19] y en la ultima 11 numeros posibles[80;90].
 Teniendo 9 numeros en la primer columna puedo hacer 36 cartones con convinaciones distintas,
